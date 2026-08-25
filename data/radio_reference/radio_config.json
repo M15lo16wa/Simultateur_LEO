@@ -1,0 +1,11 @@
+{
+  "_notes": "Valeurs approximatives publiques (litterature Starlink Ku-band), a remplacer par les documents FCC/ITU reels places dans data/radio_reference/.",
+  "ku_band": {
+    "downlink_frequency_hz": 12000000000.0,
+    "bandwidth_hz": 240000000.0,
+    "satellite_eirp_dbw": 34.0,
+    "user_terminal_gain_dbi": 34.0,
+    "system_noise_temperature_k": 200.0,
+    "other_losses_db": 2.0
+  }
+}

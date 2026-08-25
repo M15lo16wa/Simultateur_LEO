@@ -1,0 +1,9 @@
+[project]
+name = "simulateur-leo"
+version = "0.1.0"
+description = "Simulateur de performance d'une constellation LEO (Starlink) : RTT, bande passante, handover, Doppler, rendu 3D"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
